@@ -10,8 +10,8 @@
     </js-module>
     <platform name="ios">
         <config-file target="config.xml" parent="/*">
-            <feature name="Device">
-                <param name="ios-package" value="CDVDevice"/>
+            <feature name="DotaPicker">
+                <param name="ios-package" value="DotaPicker"/>
             </feature>
         </config-file>
         <header-file src="src/ios/CDVDevice.h" />

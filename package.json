@@ -1,0 +1,30 @@
+{
+  "name": "dota-hero-picker",
+  "version": "1.0.0",
+  "description": "Use this to choose hero based on line up and personal preference",
+  "cordova": {
+    "id": "dota-hero-picker",
+    "platforms": [
+      "ios",
+      "android",
+      "browser"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IcedLife/DotaPicker.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-browser"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "dnie"
+}
